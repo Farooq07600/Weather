@@ -1,2 +1,1 @@
-# Weather
-​"A real-time Weather Application built with HTML, CSS, and JavaScript using OpenWeatherMap API to fetch live weather data for any city."
+![Weather Screenshot](https://github.com/Farooq07600/Weather/blob/main/weather%20screen%20shot.jpg) 
